@@ -1,6 +1,7 @@
+<img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/header.png">
 <h1 align="center">Hi 👋, I'm Viraj Desai</h1>
 <h3 align="center">A passionate Process engineer from INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://2.bp.blogspot.com/-Ek7WgOkzM1A/WUcOJCw1HjI/AAAAAAAADBI/IUW91PgA9Vo45DKcMXXuAc0z1sel_FccwCLcBGAs/s1600/GAFE%2Band%2BEDP.gif">
+<img align="center" alt="Coding" width="400" src="https://2.bp.blogspot.com/-Ek7WgOkzM1A/WUcOJCw1HjI/AAAAAAAADBI/IUW91PgA9Vo45DKcMXXuAc0z1sel_FccwCLcBGAs/s1600/GAFE%2Band%2BEDP.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajdesai0309&label=Profile%20views&color=0e75b6&style=flat" alt="virajdesai0309" /> </p>
