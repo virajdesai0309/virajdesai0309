@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice)
 
-- 🌱 I’m currently learning **Python | Jupyter notebooks | Data Science**
+- 🌱 I’m currently learning **Python | Jupyter notebooks | Data Science | Process calculations | Process Design | Unit operations**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
