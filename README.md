@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajdesai0309" alt="virajdesai0309" /></a> </p>
 
-- 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice)
+- 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice) | [Simulation Using DWSIM](https://github.com/virajdesai0309/DWSIM-Repo)
 
 - 🌱 I’m currently learning **Python | Jupyter notebooks | Data Science | Process calculations | Process Design | Unit operations**
 
