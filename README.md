@@ -41,5 +41,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajdesai0309&" alt="virajdesai0309" /></p>
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
