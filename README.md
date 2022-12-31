@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajdesai0309&show_icons=true&locale=en" alt="virajdesai0309" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajdesai0309&" alt="virajdesai0309" /></p>
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
