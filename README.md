@@ -40,6 +40,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajdesai0309&" alt="virajdesai0309" /></p>
 
+---
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/virajdesai0309)  
+
+![GitHub metrics](https://metrics.lecoq.io/virajdesai0309)  
+
+
+---
 
 ### Keep Calm and keep coding ♥
 
