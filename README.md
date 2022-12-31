@@ -42,17 +42,16 @@
 
 ---
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/virajdesai0309)  
 
 ![GitHub metrics](https://metrics.lecoq.io/virajdesai0309)  
-
 
 ---
 
 ### Keep Calm and keep coding ♥
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mowygk3j6p8hroiirrkt35tru&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mowygk3j6p8hroiirrkt35tru&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 
