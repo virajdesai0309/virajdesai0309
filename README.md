@@ -41,3 +41,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajdesai0309&" alt="virajdesai0309" /></p>
 
 
+### Keep Calm and keep coding ♥
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mowygk3j6p8hroiirrkt35tru&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+
