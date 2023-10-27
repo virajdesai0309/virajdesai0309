@@ -1,4 +1,4 @@
-<img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/Banner.gif">
+<img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/Banner1.gif">
 <h1 align="center">Hi 👋, I'm Viraj Desai</h1>
 <h3 align="center">A passionate Process engineer from INDIA</h3>
 <img align="center" alt="Coding" width="400" src="https://2.bp.blogspot.com/-Ek7WgOkzM1A/WUcOJCw1HjI/AAAAAAAADBI/IUW91PgA9Vo45DKcMXXuAc0z1sel_FccwCLcBGAs/s1600/GAFE%2Band%2BEDP.gif">
