@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajdesai0309" alt="virajdesai0309" /></a> </p>
 
-- 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice) | [Simulation Using DWSIM](https://github.com/virajdesai0309/DWSIM-Repo) | [DWSim Automation](https://github.com/virajdesai0309/DWSim-Automation-Repo) | [Machine Learning for Chem Eng](https://github.com/virajdesai0309/Machine-Learning-Essentials) 
+- 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice) | [Simulation Using DWSIM](https://github.com/virajdesai0309/DWSIM-Repo) | [DWSim Automation](https://github.com/virajdesai0309/DWSim-Automation-Repo) 
 
 - 🌱 I’m currently learning **Python | Jupyter notebooks | Data Science | Process calculations | Process Design | Unit operations**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects** / **Process Modelling** / **Process Simulations** 
 
 - 🤝 I’m looking for help with **Process engineers**
 
