@@ -1,55 +1,78 @@
-<img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/Banner1.gif">
-<h1 align="center">Hi 👋, I'm Viraj Desai</h1>
-<h3 align="center">A passionate Process engineer from INDIA</h3>
-<img align="center" alt="Coding" width="400" src="https://2.bp.blogspot.com/-Ek7WgOkzM1A/WUcOJCw1HjI/AAAAAAAADBI/IUW91PgA9Vo45DKcMXXuAc0z1sel_FccwCLcBGAs/s1600/GAFE%2Band%2BEDP.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Viraj+Desai!;" />
+</h1>
 
+<h3 align="center">A passionate process modelling engineer from India </h3>
+
+<img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/Banner1.gif">
+
+<img align="center" alt="Coding" width="400" src="https://2.bp.blogspot.com/-Ek7WgOkzM1A/WUcOJCw1HjI/AAAAAAAADBI/IUW91PgA9Vo45DKcMXXuAc0z1sel_FccwCLcBGAs/s1600/GAFE%2Band%2BEDP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajdesai0309&label=Profile%20views&color=0e75b6&style=flat" alt="virajdesai0309" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajdesai0309" alt="virajdesai0309" /></a> </p>
 
-- 🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice) | [Simulation Using DWSIM](https://github.com/virajdesai0309/DWSIM-Repo) | [DWSim Automation](https://github.com/virajdesai0309/DWSim-Automation-Repo) 
+<div align="center">
 
-- 🌱 I’m currently learning **Python | Jupyter notebooks | Data Science | Process calculations | Process Design | Unit operations**
+🔭 I’m currently working on [Python Modules for Engineers](https://github.com/virajdesai0309/Python-Practice) | [Simulation Using DWSIM](https://github.com/virajdesai0309/DWSIM-Repo) | [DWSim Automation](https://github.com/virajdesai0309/DWSim-Automation-Repo) 
 
-- 👯 I’m looking to collaborate on **Data Science Projects** / **Process Modelling** / **Process Simulations** 
+🌱 I’m currently learning **Python | Jupyter notebooks | Data Science | Process calculations | Process Design | Unit operations**
 
-- 🤝 I’m looking for help with **Process engineers**
+👯 I’m looking to collaborate on **Data Science Projects** / **Process Modelling** / **Process Simulations** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/virajdesai0309](https://github.com/virajdesai0309)
+🤝 I’m looking for help with **Process engineers**
 
-- 📝 I do a weekly write articles on [Python for Chemical Engineers / Engineers](Python for Chemical Engineers / Engineers)
+👨‍💻 All of my projects are available at [https://github.com/virajdesai0309](https://github.com/virajdesai0309)
 
-- 💬 Ask me about **Process engineering | Process Development | Process Simulations | Engineering Deliverables | Process Calculations | Python | Jupyter notebooks | Data Science | Data Analysis**
+📝 I do a weekly write articles on [Python for Chemical Engineers / Engineers](Python for Chemical Engineers / Engineers)
 
-- 📫 How to reach me **virajdesai0309@gmail.com**
+💬 Ask me about **Process engineering | Process Development | Process Simulations | Engineering Deliverables | Process Calculations | Python | Jupyter notebooks | Data Science | Data Analysis**
 
-- ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
+📫 How to reach me **virajdesai0309@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/viraj-desai-03sept/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/viraj-desai-03sept" height="30" width="40" /></a>
-</p>
+⚡ Fun fact **Hot water will turn into ice faster than cold water.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<h2 align="center">Connect with me:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajdesai0309&show_icons=true&locale=en&layout=compact" alt="virajdesai0309" /></p>
+<div align="center"> 
+  <a href="mailto:virajdesai0309@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/viraj-desai-03sept/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://virajdesai0309.github.io/portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajdesai0309&show_icons=true&locale=en" alt="virajdesai0309" /></p>
+</div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajdesai0309&" alt="virajdesai0309" /></p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+    <br>
+</div>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/virajdesai0309/virajdesai0309/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/virajdesai0309)  
+<hr/>
 
-![GitHub metrics](https://metrics.lecoq.io/virajdesai0309)  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=virajdesai0309&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=virajdesai0309&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=virajdesai0309&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-### Keep Calm and keep coding ♥
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mowygk3j6p8hroiirrkt35tru&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
+<hr/>
