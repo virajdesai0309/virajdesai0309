@@ -2,7 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Viraj+Desai!;" />
 </h1>
 
-<h3 align="center">A passionate process modelling engineer from India </h3>
+<h3 align="center">A passionate process modelling engineer from India
+    
+Click here to get more details → [Curriculum Vitae](https://virajdesai0309.github.io/portfolio/) 
+</h3>
 
 <img src="https://github.com/virajdesai0309/virajdesai0309/blob/main/Banner1.gif">
 
